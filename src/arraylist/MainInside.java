@@ -20,7 +20,7 @@ public class MainInside {
 	}
 
 	private static void gradingRequirements() {
-		System.out.println("1. All JOP and jar'd\n 2. First is a menu asking for desired option -- looped\n 3. Menu: Show Names, Add Name, Remove Name, Replace Name, exit ");
+		System.out.println("1. All JOP and jar'd\n2. First is a menu asking for desired option -- looped\n3. Menu: Show Names, Add Name, Remove Name, Replace Name, exit ");
 	}
 
 }
